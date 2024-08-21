@@ -1,5 +1,5 @@
 # Desafio em Back-End ✂️🔗
-Encurtador de URL
+## Encurtador de URL
 Este projeto é uma API desenvolvida para encurtar URLs. A API permite que os usuários submetam URLs longas e recebam uma versão reduzida, mantendo a capacidade de redirecionar para a URL original.
 
 ## Funcionalidades Implementadas
@@ -15,9 +15,10 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Express](https://expressjs.com/pt-br/): Framework para construção de aplicações web e APIs.
 - [PostgreSQL](https://www.postgresql.org): Sistema de gerenciamento de banco de dados relacional.
 ## Como Utilizar
-1. Instalar Dependências: Execute o comando yarn para instalar as dependências do projeto.
-2. Executar Aplicação em Desenvolvimento: Use o comando yarn api:dev para iniciar o servidor em modo de desenvolvimento.
-3. Gerar Build de Produção: Execute yarn api:build para criar uma versão otimizada da aplicação para produção.
+1. Clone o repositório para sua máquina local usando o comando: git clone https://github.com/TheodoroL/desafio-backend.git 
+2. Instalar Dependências: Execute o comando yarn para instalar as dependências do projeto.
+3. Executar Aplicação em Desenvolvimento: Use o comando yarn api:dev para iniciar o servidor em modo de desenvolvimento.
+4. Gerar Build de Produção: Execute yarn api:build para criar uma versão otimizada da aplicação para produção.
 ## Desafio
 A proposta deste desafio pode ser encontrada no repositório oficial: [Repositório do Desafio.](https://github.com/backend-br/desafios)
 
